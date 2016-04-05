@@ -417,7 +417,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GestureAdjust/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Chindle.GestureAdjust;
+				PRODUCT_BUNDLE_IDENTIFIER = juliano.GestureAdjust;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -429,7 +429,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GestureAdjust/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Chindle.GestureAdjust;
+				PRODUCT_BUNDLE_IDENTIFIER = juliano.GestureAdjust;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -501,6 +501,7 @@
 				3AC2B2E91C99390900F298C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3AC2B2EA1C99390900F298C3 /* Build configuration list for PBXNativeTarget "GestureAdjustTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +510,7 @@
 				3AC2B2EC1C99390900F298C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3AC2B2ED1C99390900F298C3 /* Build configuration list for PBXNativeTarget "GestureAdjustUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +519,7 @@
 				3AC2B2EF1C99390900F298C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
